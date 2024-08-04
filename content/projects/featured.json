@@ -1,0 +1,39 @@
+[
+	{
+		"project": "Appointment Organizer (APO)",
+		"url": "https://github.com/COMP2432-G05/Appointment-Organizer",
+		"repo": "Public",
+		"descriptionTitle": "Scheduling application in Linux",
+		"description": "Muti-processes application with different scheduling algorithms.",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/03.png" },
+			{ "key": "mock-stack",	"hover": "right",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/02.png" },
+			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
+		],
+		"stack": [
+			{ "key": "Linux", 		"name": "Linux", 			"type": "devicon" },
+			{ "key": "C", 		"name": "C", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
+		]
+	},
+	{
+		"project": "Service learning in Vietnam",
+		"url": "https://vinct-852.github.io/serviceLearning/#home",
+		"repo": "Public",
+		"descriptionTitle": "An website for promotion.",
+		"description": "Organized events in Vietnam raising Vietnam’s public environmental awareness.",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "480", "w": "600",  "url": "/img/ServiceLearningWebsite.png" }
+		],
+		"stack": [
+			{ "key": "react", 		"name": "React", 		"type": "devicon" },
+			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" }
+		]
+	}
+]
