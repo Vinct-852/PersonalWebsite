@@ -1,4 +1,7 @@
-/** @type {import('next').NextConfig} */
+/**
+ * @type {import('next').NextConfig}
+ */
+
 const nextConfig = {
   basePath: "/PresonalWebsite",
 	output: "export",  // <=== enables static exports
