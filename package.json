@@ -1,10 +1,10 @@
 {
 	"homepage": "https://Vinct-852.github.io/PresonalWebsite",
-	"version":"1.0.0",
+	"version": "1.0.0",
 	"description": "PresonalWebsite",
 	"scripts": {
 		"predeploy": "npm run build",
- 		"deploy": "gh-pages -d build",
+		"deploy": "gh-pages -d build",
 		"dev": "next",
 		"build": "next build",
 		"start": "next start",
