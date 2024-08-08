@@ -53,5 +53,13 @@
 		"jest": "^29.4.2",
 		"jest-environment-jsdom": "^29.4.2",
 		"sass": "^1.57.1"
-	}
+	},
+	"name": "portfolio-main",
+	"main": "jest.config.js",
+	"directories": {
+		"test": "tests"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
 }
